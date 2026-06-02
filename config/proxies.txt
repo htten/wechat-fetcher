@@ -1,0 +1,8 @@
+# 代理配置文件示例
+# 每行一个代理地址，支持 http/https/socks5
+# 格式: scheme://host:port 或 scheme://user:pass@host:port
+# 以 # 开头的行为注释
+
+# 示例（实际使用时删除注释并填写真实代理）:
+# http://127.0.0.1:7890
+# socks5://user:pass@proxy.example.com:1080

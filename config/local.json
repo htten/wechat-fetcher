@@ -1,0 +1,7 @@
+{
+  "scnet": {
+    "apiKey": "sk-sp-NjY0LTEyNzIzMDEzMjQ0LTE3Nzc5NzI3MDM5NjA=",
+    "baseUrl": "https://api.scnet.cn/api/llm/v1",
+    "model": "Qwen3-235B-A22B"
+  }
+}
